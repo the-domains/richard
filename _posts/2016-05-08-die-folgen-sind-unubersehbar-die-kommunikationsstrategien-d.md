@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T12:03:18.369Z'
-dateModified: '2016-05-08T12:03:17.421Z'
+datePublished: '2016-05-08T12:03:52.026Z'
+dateModified: '2016-05-08T12:03:20.584Z'
 title: 'Die Folgen sind unübersehbar. Die Kommunikationsstrategien der Unternehmen ändern sich drastisch. Der Konsument will überzeugt werden. Das realisieren wir jetzt mit Websites, die zum Leben erwacht sind und wie Magazine funktionieren. Das stellt neue Anforderungen an die Unternehmen. Wer hat schon einen Redakteur in der Marketingabteilung, der auch noch Online-Texte formulieren kann?'
 author: []
 sourcePath: _posts/2016-05-08-die-folgen-sind-unubersehbar-die-kommunikationsstrategien-d.md
@@ -22,5 +22,6 @@ _type: Article
 
 ---
 # [Die Folgen sind unübersehbar. Die Kommunikationsstrategien der Unternehmen ändern sich drastisch. Der Konsument will überzeugt werden. Das realisieren wir jetzt mit Websites, die zum Leben erwacht sind und wie Magazine funktionieren. Das stellt neue Anforderungen an die Unternehmen. Wer hat schon einen Redakteur in der Marketingabteilung, der auch noch Online-Texte formulieren kann?][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a60612e3-ab43-4189-946d-b86415f822b5.jpg)
 
 [0]: null
